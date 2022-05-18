@@ -43,10 +43,11 @@ p {
 
 /* Button */
 .button {
-  padding: 14px 40px;
+  padding: 10px 40px;
   border-radius: 8px;
   transition-duration: 0.2s;
   border-color: #DC143C;
+  background-color: white;
 }
 
 .button:hover {
@@ -56,7 +57,7 @@ p {
 }
 
 .disabled {
-  opacity: 0.6;
+  opacity: 0.5;
   cursor: not-allowed;
 }
 /* Button */
