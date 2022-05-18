@@ -46,12 +46,12 @@ p {
   padding: 14px 40px;
   border-radius: 8px;
   transition-duration: 0.2s;
-  border-color: crimson;
+  border-color: #DC143C;
 }
 
 .button:hover {
   background-color: red;
-  border-color: mintcream;
+  border-color: #F8F8FF;
   color: white;
 }
 
