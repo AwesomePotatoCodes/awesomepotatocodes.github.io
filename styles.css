@@ -40,3 +40,21 @@
 p {
   font-size: 19.6px;
 }
+
+/* Button */
+.button {
+  padding: 14px 40px;
+  border-radius: 8px;
+  transition-duration: 0.2s;
+}
+
+.button:hover {
+  background-color: red;
+  color: white;
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+/* Button */
