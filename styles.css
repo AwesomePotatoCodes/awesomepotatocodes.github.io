@@ -5,6 +5,10 @@
   /* Add More CSS Someday */
 }
 
+.large {
+  font-size: 43px;
+}
+
 /* Simplified Colors Start */
 .red {
   color: red;
