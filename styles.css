@@ -9,6 +9,12 @@
   font-size: 43px;
 }
 
+.boxed {
+  border-style: dashed;
+  border-width: 5px;
+  color: red;
+}
+
 /* Simplified Colors Start */
 .red {
   color: red;
